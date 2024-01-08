@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Dileeshara Hasarinda</h1>
 
 
