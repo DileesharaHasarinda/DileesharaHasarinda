@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dileeshara Hasarinda</h1>
-
+---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dileesharahasarinda&label=Profile%20views&color=0e75b6&style=flat" alt="dileesharahasarinda" /> </p>
-
+---
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **javascript**
@@ -9,6 +9,8 @@
 - 📫 How to reach me **dileeshara2002@icloud.com**
 
 - ⚡ Fun fact **Call me as Dilee**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
