@@ -7,7 +7,7 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="180" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="160" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
