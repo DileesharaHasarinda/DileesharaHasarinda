@@ -90,14 +90,6 @@ I enjoy transforming real-world ideas into practical software solutions using cl
 
 ---
 
-## Core Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,java,c,cpp,kotlin,tailwind,bootstrap,git,github,vscode,postman,figma&perline=7" />
-</p>
-
----
-
 ## Engineering Principles
 
 <p align="center">
